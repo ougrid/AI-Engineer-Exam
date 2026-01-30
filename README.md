@@ -15,7 +15,7 @@ You are provided with the following data sources:
 | `/product_images` | Corresponding product images |
 | `/sqlite_db` | SQLite database (`data.db`) with relational data (products, sales, inventory, etc.) |
 
-### 💰 Loan Data (NEW)
+### 💰 Loan Data
 | File/Folder | Description |
 |-------------|-------------|
 | `/Loan_data/train.csv` | Training dataset with historical loan records including default labels |
@@ -67,10 +67,10 @@ Submit a **comprehensive report** (PDF) for all projects containing:
 - Target users and use cases
 
 ### 2.  System Design
-- Architecture diagram (data flow, components)
+- Architecture diagram
 - Technology stack justification
 - Model/algorithm selection rationale
-- Data preprocessing and feature engineering approach
+- Data preprocessing
 
 ### 3.  Results & Demonstration
 - Model performance metrics (accuracy, F1, AUC, etc.)
